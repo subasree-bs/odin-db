@@ -1,0 +1,33 @@
+body{
+    padding: 0 !important;
+    margin: 0 !important;
+}
+.left{
+    background-color: aqua;
+    height: 100vh;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+.topbar{
+    height: 145px;
+    background-color: aquamarine;
+    width: 100% !important;
+
+}
+.dbtitle{
+    padding: 20px;
+}
+.titles{
+    /* display: grid; */
+    margin-top: 20px;
+    padding: 5px 15px 0 15px;
+}
+.titles_list{
+    display: grid;
+    grid-auto-rows: 35px;
+
+}
+.right{
+    padding: 0 !important;
+    margin: 0 !important;
+}
